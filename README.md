@@ -36,7 +36,7 @@ Selenium solves this because it:
 
 ### Website screenshot:
 
-![Website Screenshot](./screenshots/website.png)
+![Website Screenshot](sreenshot.jpg)
 
 ### Sample scraped data:
 
